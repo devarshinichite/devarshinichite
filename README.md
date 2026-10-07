@@ -3,13 +3,10 @@
   <b align="center">AWS Certified Cloud Practitioner | IT Support Engineer | Cloud & DevOps Enthusiast</b>
 </p>
 <p align="center">
-  <a href="https://devarshinichite.github.io">🌐 Portfolio</a> |
-  <a href="https://www.linkedin.com/in/devarshinichite">💼 LinkedIn</a> |
   <a href="mailto:devarshinichite@yahoo.com">📧 Email</a>
 </p>
 
 ### 👨‍💻 About Me
-I'm an **IT Support Engineer transitioning into Cloud & DevOps**, with professional experience supporting systems, troubleshooting infrastructure, managing IT assets, and working with Linux, Windows, networking, and servers.
 
 I'm currently focused on building practical cloud infrastructure skills through **AWS projects, homelabs, and hands-on labs** - with an emphasis on understanding how systems are designed, deployed, secured, and connected.
 
@@ -26,10 +23,6 @@ I'm currently focused on building practical cloud infrastructure skills through 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx"/>
 </p>
 
-**Cloud:** AWS, EC2, VPC, IAM, S3, RDS  
-**Infrastructure:** Linux, Windows Server, Networking, Nginx, Docker, WireGuard  
-**Development:** Python, Flask, MySQL, Git, Bash
-
 ### ☁️ AWS Certification - AWS Certified Cloud Practitioner - CLF-C02
 
 <p>
@@ -43,17 +36,13 @@ I'm currently focused on building practical cloud infrastructure skills through 
 
 ### 🚀 Featured Projects
 
-**☁️ [AWS Cloud Journey](https://github.com/devarshinichite/aws-cloud-journey)**  
-My ongoing AWS learning repository covering **cloud networking, EC2, VPC architecture, security, RDS, application deployment, architecture diagrams, troubleshooting, and infrastructure documentation.**
+**☁️ [AWS Cloud Journey](https://github.com/devarshinichite/aws-cloud-journey)**
 
 **🔐 [Homelab VPN](https://github.com/devarshinichite/aws-cloud-journey/tree/main/Homelab%20VPN)**  
-Built a **WireGuard VPN between AWS EC2 and my homelab**, working with Linux networking, routing, firewall rules, VPN peers, and private network access.
 
 **🌐 Reverse Proxy / Application Deployment**  
-Deployed a Flask application using **Gunicorn + Nginx on AWS EC2**, gaining hands-on experience with application-to-infrastructure workflow, reverse proxy configuration, HTTP/HTTPS, and Linux services.
 
 **☁️ [Cloud Asset Manager](https://github.com/devarshinichite/cloud-asset-manager)**  
-A cloud-focused project exploring **infrastructure and cloud asset management**.
 
 👉 **[View all projects & technical documentation →](https://devarshinichite.github.io/#projects)**
 
