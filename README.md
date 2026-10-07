@@ -36,6 +36,9 @@ I'm currently focused on building practical cloud infrastructure skills through 
   <a href="https://www.credly.com/earner/earned/badge/dccb3b3f-c8e9-49cc-a7cc-2af72f4c58c6">
     <img src="./assets/aws-cloud-practitioner.png" width="70" alt="AWS Certified Cloud Practitioner"/>
   </a>
+  <a href="https://www.credly.com/badges/4cf102c3-00d2-42a5-8fd5-af78444cf688/public_url">
+    <img src="https://images.credly.com/size/340x340/images/b6b54bbe-b797-49a3-b571-58ca96328b9b/blob" width="70" alt="AWS Simulearn Cloud Practitioner"/>
+  </a>
 </p>
 
 ### 🚀 Featured Projects
