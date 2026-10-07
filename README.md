@@ -66,6 +66,9 @@ Worked with **40+ systems, 50+ IT assets, Windows Server, Active Directory, Grou
 
 ---
 
+[![Readme Riddle](https://github-readme-riddle.vercel.app/api?type=horizontal&theme=dark)](https://github.com/SajagIN/github-readme-riddle)
+
+---
 <p align="center">
   <i>Building practical cloud infrastructure through hands-on projects, troubleshooting, and continuous learning.</i>
 </p>
