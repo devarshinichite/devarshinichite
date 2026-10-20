@@ -10,8 +10,6 @@
 
 I'm currently focused on building practical cloud infrastructure skills through **AWS projects, homelabs, and hands-on labs** - with an emphasis on understanding how systems are designed, deployed, secured, and connected.
 
-Currently working on - **☁️ [Cloud Asset Manager](https://github.com/devarshinichite/cloud-asset-manager)** - EC2, RDS, Secrets Manager, IAM, S3
-
 ### 🛠️ Technologies & Tools
 
 <p>
@@ -41,6 +39,8 @@ Currently working on - **☁️ [Cloud Asset Manager](https://github.com/devarsh
 **☁️ [AWS Cloud Journey](https://github.com/devarshinichite/aws-cloud-journey)**
 
 **🔐 [Homelab VPN](https://github.com/devarshinichite/aws-cloud-journey/tree/main/Homelab%20VPN)**  
+
+**☁️ [Cloud Asset Manager](https://github.com/devarshinichite/cloud-asset-manager)**
 
 **🌐 Reverse Proxy / Application Deployment**   
 
