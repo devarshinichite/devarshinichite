@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Devarshi Nichite 👋</h1>
 <p align="center">
-  <b align="center">AWS Certified Cloud Practitioner | IT Support Engineer | Cloud & DevOps</b>
+  <b align="center">AWS Certified Cloud Practitioner | Cloud & DevOps</b>
 </p>
 <p align="center">
   <a href="mailto:devarshinichite@yahoo.com">📧 Email</a>
