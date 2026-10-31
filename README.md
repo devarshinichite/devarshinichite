@@ -13,13 +13,13 @@ I'm currently focused on building practical cloud infrastructure skills through 
 ### 🛠️ Technologies & Tools
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="Docker"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" alt="Bash"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://images.icon-icons.com/2407/PNG/512/aws_icon_146237.png" width="45" height="45" alt="AWS"/>
+  <img src="https://images.icon-icons.com/70/PNG/512/linux_14171.png" width="45" height="45" alt="Linux"/>
+  <img src="https://images.icon-icons.com/2407/PNG/512/docker_icon_146192.png" width="45" height="45" alt="Docker"/>
+  <img src="https://images.icon-icons.com/384/PNG/512/utilities-terminal-icon_37688.png" width="45" height="45" alt="Bash"/>
+  <img src="https://images.icon-icons.com/1495/PNG/512/gitcola_102985.png" width="45" height="45" alt="Git"/>
+  <img src="https://images.icon-icons.com/1495/PNG/512/python_103279.png" width="45" height="45" alt="Python"/>
+  <img src="https://images.icon-icons.com/1495/PNG/512/mysqlworkbench_102952.png" width="45" height="45" alt="MySQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx"/>
 </p>
 
