@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-I'm currently focused on building practical cloud infrastructure skills through **AWS projects, homelabs, and hands-on labs** - with an emphasis on understanding how systems are designed, deployed, secured, and connected.
+I'm currently focused on learning and building pipelines; practical cloud infrastructure skills through **AWS projects, homelabs, and hands-on labs** - with an emphasis on understanding how systems are designed, deployed, secured, and connected.
 
 ### 🛠️ Technologies & Tools
 
