@@ -20,6 +20,7 @@ I'm currently focused on learning and building pipelines; practical cloud infras
   <img src="https://images.icon-icons.com/1495/PNG/512/gitcola_102985.png" width="45" height="45" alt="Git"/>
   <img src="https://images.icon-icons.com/1495/PNG/512/python_103279.png" width="45" height="45" alt="Python"/>
   <img src="https://images.icon-icons.com/1495/PNG/512/mysqlworkbench_102952.png" width="45" height="45" alt="MySQL"/>
+  <img src="https://images.icon-icons.com/2699/PNG/512/jenkins_logo_icon_170552.png" width="45" height="45" alt="Jenkins"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx"/>
 </p>
 
